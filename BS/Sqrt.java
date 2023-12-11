@@ -23,7 +23,7 @@ public class Sqrt {
     }
 
     public static void main(String[] args) {
-        int num = 8;
+        int num = 15;
         int sqrt = find(num);
         System.out.println("The square root of " + num + " is " +  sqrt);
     }

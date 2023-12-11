@@ -1,4 +1,3 @@
-import java.util.*;
 public class KokoEatingBananas {
     public static int minEatingSpeed(int[] piles, int h) {
         int low = 1;
@@ -26,13 +25,7 @@ public class KokoEatingBananas {
         return totalHours <= hours;
     }
 
-    private static int getMax(int[] piles) {
-        int max = Integer.MIN_VALUE;
-        for (int bananas : piles) {
-            max = Math.max(max, bananas);
-        }
-        return max;
-    }
+
 
     public static void main(String[] args) {
         int[] piles ={3,6,7,11};

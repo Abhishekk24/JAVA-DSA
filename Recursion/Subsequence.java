@@ -17,12 +17,12 @@ public class Subsequence {
     }
 
     public static void main(String[] args) {
-        int[] arr = {3, 2, 1};
+        int[] arr = {10,9,2,5,3,7,101,18};
         List<Integer> ds = new ArrayList<>();
         List<List<Integer>> subsequences = subsequence(0, arr, ds);
 
-        // Sorting the list of subsequences
-        subsequences.sort(Comparator.comparing(list -> list.toString()));
+        // // Sorting the list of subsequences
+        // subsequences.sort(Comparator.comparing(list -> list.toString()));
 
         System.out.println(subsequences);
     }
