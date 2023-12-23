@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "IterativeInorderTraversal",
+            "request": "launch",
+            "mainClass": "IterativeInorderTraversal",
+            "projectName": "BinaryTree_8d3f1637"
+        },
+        {
+            "type": "java",
+            "name": "IterativePreorderTraversal",
+            "request": "launch",
+            "mainClass": "IterativePreorderTraversal",
+            "projectName": "BinaryTree_8d3f1637"
+        },
+        {
+            "type": "java",
+            "name": "MaximumDepthofBT",
+            "request": "launch",
+            "mainClass": "MaximumDepthofBT",
+            "projectName": "BinaryTree_8d3f1637"
+        }
+    ]
+}

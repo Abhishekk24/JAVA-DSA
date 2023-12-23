@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CheckValidParenthisis",
+            "request": "launch",
+            "mainClass": "CheckValidParenthisis",
+            "projectName": "Stacks_3ef2d5e3"
+        },
+        {
+            "type": "java",
+            "name": "LargestRectangleHistogram",
+            "request": "launch",
+            "mainClass": "LargestRectangleHistogram",
+            "projectName": "Stacks_3ef2d5e3"
+        },
+        {
+            "type": "java",
+            "name": "QueueImplementationuseStack",
+            "request": "launch",
+            "mainClass": "QueueImplementationuseStack",
+            "projectName": "Stacks_3ef2d5e3"
+        },
+        {
+            "type": "java",
+            "name": "StackImplementation",
+            "request": "launch",
+            "mainClass": "StackImplementation",
+            "projectName": "Stacks_3ef2d5e3"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingQueue",
+            "request": "launch",
+            "mainClass": "StackUsingQueue",
+            "projectName": "Stacks_3ef2d5e3"
+        },
+        {
+            "type": "java",
+            "name": "nextgreater",
+            "request": "launch",
+            "mainClass": "nextgreater",
+            "projectName": "Stacks_3ef2d5e3"
+        }
+    ]
+}
